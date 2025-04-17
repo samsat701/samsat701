@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Univise](https://github.com/samsat701/UniviseChatBot)
 
-- 💬 Ask me about **LLMs, Computer Vision, ML/DL Models**
+- 💬 Ask me about **LLMs, Computer Vision, ML/DL Applications**
 
 - 📫 How to reach me **samyaks2@illinois.edu**
 
