@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samyak Shrimali</h1>
-<h3 align="center">CS @ UIUC | Prev. AI @ AMD, John Deere</h3>
+<h3 align="center">CS @ UIUC</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samsat701&label=Profile%20views&color=0e75b6&style=flat" alt="samsat701" /> </p>
 
